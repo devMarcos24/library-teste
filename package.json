@@ -1,6 +1,6 @@
 {
   "name": "@devmarcos24/library-teste",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/cjs/index.js",
   "description": "A simple template for a custom React component library",
   "scripts": {
